@@ -1,2 +1,2 @@
 # TheLeagueWiki-LLM
-An LLM designed for use as a native language search engine for the NationStates Wiki RP "The League"
+All the files I created and used for my custom selfhosted LLM agent to be used on "The League" Wiki Roleplay project.
