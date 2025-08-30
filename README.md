@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Logo" width="200">
+  <img src="wiki-wiki.theleague-ns.com-20250830_logo.png" alt="Logo" width="200">
 </div>
 
 # TheLeagueWiki-LLM
