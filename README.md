@@ -3,6 +3,9 @@
 </div>
 
 # TheLeagueWiki-LLM
+![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 All the files I created and used for my custom selfhosted LLM agent to be used on "The League" Wiki Roleplay project.
 
 ## Files
